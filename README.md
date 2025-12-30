@@ -1,2 +1,2 @@
 # hyprkedar
-tool for easily switch between workspaces in different monitor setup in hyprland
+Tool for easily switch between workspaces and moving windows in multiple monitors setup in hyprland
