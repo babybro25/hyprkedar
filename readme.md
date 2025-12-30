@@ -5,7 +5,7 @@ Tool for easily switch between workspaces and moving windows in multiple monitor
 1. hyprland
 2. g++ (C++17 or newer)
 3. hyprctl available in $PATH
-4. 
+   
 # configuration
 1. Open kedar.conf and start configuring<br>
 2. Please keep in mind to write as much monitor name you have mention and similarly for the binding or shortcuts<br>
