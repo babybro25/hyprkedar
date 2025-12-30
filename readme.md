@@ -26,5 +26,6 @@ Tool for easily switch between workspaces and moving windows in multiple monitor
    replace location of kedar1.conf<br>
    generally placed in the file where is cloned -> main_files -> kedar1.conf<br>
 6. Do : hyprctl reload<br>
-7. Enjoy
+7. <ins>**You have to rerun ./kedar every time you change your kedar.conf file to see the changes.**</ins>
+8. Enjoy
 
