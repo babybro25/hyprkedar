@@ -64,13 +64,13 @@ int main() {
     out1 << "# Bindings for switching workspaces\n";
     for (int i = 0; i < number_of_workspaces; i++) {
         out1 << "bind = " << switch_binds[i] 
-             << " exec ~/Documents/code/project/p_06/kedar_02.sh " 
+             << " exec /kedar2.sh " 
              << i + 1 << " switch\n";
     }
     out1 << "\n# Bindings for moving windows\n";
     for (int i = 0; i < number_of_workspaces; i++) {
         out1 << "bind = " << move_binds[i] 
-             << " exec ~/Documents/code/project/p_06/kedar_02.sh " 
+             << " exec /kedar2.sh " 
              << i + 1 << " move\n";
     }
 
